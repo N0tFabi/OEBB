@@ -1,0 +1,12 @@
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\bin\Release\net7.0\OEBB.deps.json
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\bin\Release\net7.0\OEBB.dll
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\bin\Release\net7.0\OEBB.pdb
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.csproj.AssemblyReference.cache
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.AssemblyInfoInputs.cache
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.AssemblyInfo.cs
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.csproj.CoreCompileInputs.cache
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.dll
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\refint\OEBB.dll
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\OEBB.pdb
+C:\Users\kahlh\source\repos\__LIBRARIES\OEBB\OEBB\obj\Release\net7.0\ref\OEBB.dll
